@@ -1,0 +1,15 @@
+C:\Users\liash\source\repos\Procvičování_11_1\bin\Debug\net6.0\Procvičování_11_1.exe
+C:\Users\liash\source\repos\Procvičování_11_1\bin\Debug\net6.0\Procvičování_11_1.deps.json
+C:\Users\liash\source\repos\Procvičování_11_1\bin\Debug\net6.0\Procvičování_11_1.runtimeconfig.json
+C:\Users\liash\source\repos\Procvičování_11_1\bin\Debug\net6.0\Procvičování_11_1.dll
+C:\Users\liash\source\repos\Procvičování_11_1\bin\Debug\net6.0\Procvičování_11_1.pdb
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.csproj.AssemblyReference.cache
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.AssemblyInfoInputs.cache
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.AssemblyInfo.cs
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.csproj.CoreCompileInputs.cache
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.dll
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\refint\Procvičování_11_1.dll
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.pdb
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\Procvičování_11_1.genruntimeconfig.cache
+C:\Users\liash\source\repos\Procvičování_11_1\obj\Debug\net6.0\ref\Procvičování_11_1.dll
