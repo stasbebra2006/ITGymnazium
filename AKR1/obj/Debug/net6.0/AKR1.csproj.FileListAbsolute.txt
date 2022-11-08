@@ -1,0 +1,15 @@
+C:\Users\liash\source\repos\AKR1\bin\Debug\net6.0\AKR1.exe
+C:\Users\liash\source\repos\AKR1\bin\Debug\net6.0\AKR1.deps.json
+C:\Users\liash\source\repos\AKR1\bin\Debug\net6.0\AKR1.runtimeconfig.json
+C:\Users\liash\source\repos\AKR1\bin\Debug\net6.0\AKR1.dll
+C:\Users\liash\source\repos\AKR1\bin\Debug\net6.0\AKR1.pdb
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.csproj.AssemblyReference.cache
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.AssemblyInfoInputs.cache
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.AssemblyInfo.cs
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.csproj.CoreCompileInputs.cache
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.dll
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\refint\AKR1.dll
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.pdb
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\AKR1.genruntimeconfig.cache
+C:\Users\liash\source\repos\AKR1\obj\Debug\net6.0\ref\AKR1.dll
