@@ -1,0 +1,15 @@
+C:\Users\liash\source\repos\Objednávky\bin\Debug\net6.0\Objednávky.exe
+C:\Users\liash\source\repos\Objednávky\bin\Debug\net6.0\Objednávky.deps.json
+C:\Users\liash\source\repos\Objednávky\bin\Debug\net6.0\Objednávky.runtimeconfig.json
+C:\Users\liash\source\repos\Objednávky\bin\Debug\net6.0\Objednávky.dll
+C:\Users\liash\source\repos\Objednávky\bin\Debug\net6.0\Objednávky.pdb
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.csproj.AssemblyReference.cache
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.AssemblyInfoInputs.cache
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.AssemblyInfo.cs
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.csproj.CoreCompileInputs.cache
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.dll
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\refint\Objednávky.dll
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.pdb
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\Objednávky.genruntimeconfig.cache
+C:\Users\liash\source\repos\Objednávky\obj\Debug\net6.0\ref\Objednávky.dll
